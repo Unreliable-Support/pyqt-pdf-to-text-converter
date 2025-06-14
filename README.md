@@ -10,9 +10,9 @@ This project demonstrates proficiency in building robust desktop applications wi
 
 A short video showcasing the application's features: dragging and dropping PDF files, selecting an output folder, running the conversion process, and viewing the resulting TXT files.
 
-[![PDF to TXT Converter Demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
+[![PDF to TXT Converter Demo](https://img.youtube.com/vi/CdTIBUgpRcU/0.jpg)](https://www.youtube.com/watch?v=CdTIBUgpRcU)
 
-**[Click here to watch the full demo on YouTube]**
+**[Click here to watch the full demo on YouTube](https://www.youtube.com/watch?v=CdTIBUgpRcU)**
 
 ---
 
